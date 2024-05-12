@@ -77,15 +77,26 @@ const CONFIG = {
   ],
   experiences: [
     {
-      
+      company: 'Architecute of Urbanism',
+      position: 'Intern',
+      from: 'April 2022',
+      to: 'June 2022',
+      companyLink: 'https://www.aour.kr/',
     },
     {
-      
+      company: 'VM Architects',
+      position: 'Intern',
+      from: 'July 2023',
+      to: 'August 2023',
+      companyLink: 'https://vmarchitects.kr/',
     },
   ],
   certifications: [
     {
-      
+      name: 'None',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
@@ -93,19 +104,19 @@ const CONFIG = {
       institution: 'Sungkyunkwan University (SKKU)',
       degree: 'Department of Architecture',
       from: '2020',
-      to: 'now',
+      to: '',
     },
     {
       institution: 'Department of Computer Science and Engineering',
       degree: 'Sungkyunkwan University (SKKU)',
       from: '2021',
-      to: 'now',
+      to: '',
     },
     {
-      institution: 'Courses Taken',
-      degree: 'Data Structures | Java Programming Lab | Introduction to Computer Architectures | System Program | Problem Solving Techniques | Algorithms | 오토마타 | 데이터베이스개론 | Open Source Software Practice',
+      institution: 'Data Structures | Java Programming Lab | Introduction to Computer Architectures | System Program | Problem Solving Techniques | Algorithms | 오토마타 | 데이터베이스개론 | Open Source Software Practice',
+      degree: 'Courses Taken',
       from: '2021',
-      to: 'now',
+      to: '',
     },
   ],
   publications: [

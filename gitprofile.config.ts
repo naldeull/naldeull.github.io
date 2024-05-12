@@ -97,7 +97,13 @@ const CONFIG = {
     },
     {
       institution: 'Department of Computer Science and Engineering',
-      degree: 'Department of Computer Science and Engineering',
+      degree: 'Sungkyunkwan University (SKKU)',
+      from: '2021',
+      to: 'now',
+    },
+    {
+      institution: 'Courses Taken',
+      degree: 'Data Structures | Java Programming Lab | Introduction to Computer Architectures | System Program | Problem Solving Techniques | Algorithms | 오토마타 | 데이터베이스개론 | Open Source Software Practice',
       from: '2021',
       to: 'now',
     },

@@ -81,7 +81,7 @@ const CONFIG = {
       position: 'Intern',
       from: 'April 2022',
       to: 'June 2022',
-      companyLink: 'https://www.aour.kr/',
+      companyLink: 'http://www.aour.kr/',
     },
     {
       company: 'VM Architects',

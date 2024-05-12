@@ -61,7 +61,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: '',
+    email: 'ljmyoyo@g.skku.edu',
   },
   resume: {
     fileUrl:
